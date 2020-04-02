@@ -11,6 +11,7 @@
     <modules>
         <module>shop-api</module>
         <module>shop-common</module>
+        <module>shop-mbg</module>
     </modules>
 
 
